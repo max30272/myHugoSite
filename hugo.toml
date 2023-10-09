@@ -1,4 +1,9 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'zh-TW'
+title = 'max30272的生活紀錄'
 theme = 'ananke'
+
+[[menu.main]]
+name = "我的紀錄"
+weight = 1
+url = "/posts"

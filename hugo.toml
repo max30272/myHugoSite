@@ -1,9 +1,10 @@
 baseURL = 'https://example.org/'
-languageCode = 'zh-TW'
-title = 'max30272的生活紀錄'
-theme = 'ananke'
+languageCode = 'zh-tw'
+title = 'max30272的筆記'
+theme = 'hugo-theme-stack'
+DefaultContentLanguage = 'zh-tw'
 
 [[menu.main]]
-name = "我的紀錄"
+name = "文章清單"
 weight = 1
 url = "/posts"
